@@ -99,4 +99,4 @@ function orStat(val){
 }
 console.log(orStat(10)) //fail
 console.log(orStat(30))//passed
-console.log(orStat(5))// passed
+console.log(orStat(5))// passed 
